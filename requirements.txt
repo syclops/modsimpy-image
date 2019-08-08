@@ -6,7 +6,6 @@ sympy
 beautifulsoup4
 lxml
 html5lib
-pytable
 matplotlib
 modsimpy
 nbgitpuller
