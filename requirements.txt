@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+seaborn
+sympy
+beautifulsoup4
+lxml
+html5lib
+pytables
+matplotlib
+modsimpy
+nbgitpuller
